@@ -1,4 +1,4 @@
-import './style.css'
+// Style is linked directly in index.html
 
 document.addEventListener('DOMContentLoaded', () => {
   // Mobile menu toggle
